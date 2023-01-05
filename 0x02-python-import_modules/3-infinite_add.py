@@ -1,10 +1,10 @@
 #!/usr/bin/python3
+
 if __name__ == "__main__":
+    """Addition of all arguments."""
     import sys
+
     res = 0
-    for str in range(len(sys.argv)):
-        if (str == 0):
-            continue
-        else:
-            res += int(sys.argv[str])
+    for i in range(len(sys.argv) - 1):
+        res += int(sys.argv[i + 1])
     print("{}".format(res))
