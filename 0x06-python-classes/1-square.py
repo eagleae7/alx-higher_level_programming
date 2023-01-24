@@ -1,12 +1,8 @@
 #!/usr/bin/python3
-"""
-Class Square:=> Create a square class that contains a size
-"""
+"""Class Square"""
 
 
-class Square:
-    """Class that defines a square with size"""
-
+class Square: 
     def __init__(self, size):
         """Initialize variables"""
         self.__size = size
