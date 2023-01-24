@@ -3,5 +3,5 @@
 
 
 class Square:
-    """Does nothing"""
+    """does nothing for nou"""
     pass
