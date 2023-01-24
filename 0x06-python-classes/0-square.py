@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+# 0-square.py by Maurisoft
+"""Defines a square """
 
-"""Defines a square module"""
+
 class Square:
-    """Defines a square"""
+    """Does nothing"""
     pass
