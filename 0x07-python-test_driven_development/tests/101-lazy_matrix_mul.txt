@@ -120,4 +120,3 @@ Now use it:
 	Traceback (most recent call last):
 	...
 	ValueError: objects are not aligned
-    

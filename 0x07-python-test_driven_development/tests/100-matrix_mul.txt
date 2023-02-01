@@ -1,10 +1,10 @@
-The ``matrix_mul`` module
+The "matrix_mul" module
 ==========================
 
-Using ``matrix_mul``
+Using "matrix_mul"
 ---------------------
 
-First import ``matrix_mul`` from the ``matrix_mul`` module:
+First import "matrix_mul" from the "matrix_mul" module:
 
 	>>> matrix_mul = __import__('100-matrix_mul').matrix_mul
 
